@@ -1,0 +1,9 @@
+<resources>
+    <string name="pref_stock_settings">Preference Stock Settings</string>
+    <string name="action_settings_title">Settings</string>
+    <string name="app_name">CS492 Final</string>
+    <string name="search_hint">Search for company…</string>
+    <string name="search">Search</string>
+    <string name="search_error">Unable to complete your search. Please Try again.</string>
+    <string name="saved_error">No Saved Companies</string>
+</resources>
